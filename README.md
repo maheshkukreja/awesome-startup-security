@@ -168,6 +168,7 @@ This practical checklist was originally developed by [Latacora](https://www.lata
 - [SOC 2 Compliance Guide by Vanta](https://www.vanta.com/collection/soc-2) - Comprehensive guide to SOC 2 requirements, trust service criteria, and the audit process.
 - [SOC 2 Starter Guide by Drata](https://drata.com/blog/soc-2-compliance-guide) - Practical walkthrough from scoping to audit readiness.
 - [AICPA SOC 2 Overview](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2) - The official AICPA resource on the SOC 2 framework.
+- [Policyseed](https://github.com/odedmoshe/policyseed) - Free, Apache-2.0 SOC 2 policy templates (22 policies) that a browser generator or CLI fills in with your company, stack and owners; useful when a first enterprise customer asks for SOC 2 and there is no compliance platform yet.
 
 ### ISO 27001
 
